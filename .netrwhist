@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/lib/python2.7'
+let g:netrw_dirhist_2='/usr/lib/python2.7/dist-packages'
+let g:netrw_dirhist_3='/var/www/edss_local'
+let g:netrw_dirhist_4='/home/ad_allancas/.local/share/python_keyring'
+let g:netrw_dirhist_5='/etc'
+let g:netrw_dirhist_6='/home/ad_allancas/dev/edss/edss_api/src/main/python/edss/controllers'
+let g:netrw_dirhist_7='/home/ad_allancas/dev/edss/edss_api'
