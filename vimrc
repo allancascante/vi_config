@@ -37,19 +37,14 @@ syntax on
 set foldmethod=indent
 set foldlevel=99
 
-" Override go-to.definition key shortcut to Ctrl-]
-let g:pymode_rope_goto_definition_bind = "<C-]>"
+" Override go-to.definition key shortcut to Ctrl-Shift-g
+let g:pymode_rope_goto_definition_bind = "<C-S-G>"
 
 " Override run current python file key shortcut to Ctrl-Shift-e
-let g:pymode_run_bind = "<C-S-e>"
+let g:pymode_run_bind = "<C-S-E>"
 
 " Override view python doc key shortcut to Ctrl-Shift-d
-let g:pymode_doc_bind = "<C-S-d>"
-
-"Override NERDTreeToggle shortcut to Ctrl-n
-let g:NERDTreeToggle = "<C-n>"
-
-let g:NERDTree = "<C-t>"
+let g:pymode_doc_bind = "<C-S-D>"
 
 set wildmode=longest,list,full
 set wildmenu
