@@ -10,3 +10,6 @@
 [submodule "bundle/vim-colors-solarized"]
 	path = bundle/vim-colors-solarized
 	url = http://github.com/altercation/vim-colors-solarized.git
+[submodule "plugin/h2cppx"]
+	path = plugin/h2cppx
+	url = https://github.com/xuqix/h2cppx.git

@@ -50,6 +50,10 @@ set wildmode=longest,list,full
 set wildmenu
 
 set background=dark
+" solarized options
+let g:solarized_visibility = "high"
+let g:solarized_contrast = "high"
+let g:solarized_termcolors=16
 colorscheme solarized
 
 " highligth text after 120 characters
