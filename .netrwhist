@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/ad_allancas/.vim'
+let g:netrw_dirhist_2='/home/ad_allancas/dev/edss/edss_user_webui_tests/src/unittest'
+let g:netrw_dirhist_3='/home/ad_allancas/dev/edss/edss_user_webui_tests/src/unittest/python'
+let g:netrw_dirhist_4='/home/ad_allancas/dev/edss/edss_common/src/main/python/EDSScommon/backends'
+let g:netrw_dirhist_5='/home/ad_allancas/dev/edss/edss_common/src/main/python'
+let g:netrw_dirhist_6='/home/ad_allancas/dev/edss/edss_common/src/main/python/EDSScommon'
+let g:netrw_dirhist_7='/home/ad_allancas/dev/edss/edss_common/src/main/python/EDSScommon/backends'
+let g:netrw_dirhist_8='/home/ad_allancas/dev/edss/edss_api/src/main/python/edss/controllers'
+let g:netrw_dirhist_9='/home/ad_allancas/.vim/bundle/puppet-syntax-vim'
