@@ -19,3 +19,9 @@
 [submodule "plugin/h2cppx"]
 	path = plugin/h2cppx
 	url = https://github.com/xuqix/h2cppx.git
+[submodule "plugin/c-support"]
+	path = plugin/c-support
+	url = https://github.com/WolfgangMehner/c-support.git
+[submodule "bundle/puppet-syntax-vim"]
+	path = bundle/puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
