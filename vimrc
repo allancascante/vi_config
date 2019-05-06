@@ -56,9 +56,6 @@ let g:solarized_contrast = "high"
 let g:solarized_termcolors=16
 colorscheme solarized
 
-" highligth text after 120 characters
-match ErrorMsg '\%>120v.\+'
-
 " Set a colored column at 120
 autocmd FileType python set colorcolumn=120
 
@@ -71,4 +68,4 @@ let g:pymode_lint_options_pep8 = {'max_line_length': 120}
 
 " Complete keywords from not imported modules (could make completion slower)
 " Enable autoimport used modules
-call pymode#default('g:pymode_rope_autoimport', 0)
+" call pymode#default('g:pymode_rope_autoimport', 0)
